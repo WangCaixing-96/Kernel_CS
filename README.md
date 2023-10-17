@@ -1,5 +1,5 @@
 # Towards a Unified Analysis of Kernel-based Methods Under Covariate Shift (NIPS 2023)
-A Python code for "Towards a Unified Analysis of Kernel-based Methods Under Covariate Shift".
+A Python code for "Towards a Unified Analysis of Kernel-based Methods Under Covariate Shift" (<https://arxiv.org/abs/2310.08237>).
 
 
 
